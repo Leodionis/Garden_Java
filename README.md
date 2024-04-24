@@ -1,1 +1,1 @@
-# Garden-Java
+# Garden Java
